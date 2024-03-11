@@ -1,2 +1,2 @@
 # todolist
-todo-api
+this API used with react-todos
